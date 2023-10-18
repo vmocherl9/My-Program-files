@@ -23,7 +23,7 @@ int main() {
     }
 
     if (num >= 10 && num % 2 != 0) {
-        count++;
+        count++;//increases the count by one.
     }
 
     printf("Total two-digit odd numbers in the number: %d\n", count);
