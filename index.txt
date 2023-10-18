@@ -1,1 +1,2 @@
 Ignore the file
+Lets add new features into this file to improve the application.
